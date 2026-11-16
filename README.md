@@ -26,4 +26,4 @@ Sistema de roteamento e triagem automatizada de chamados de suporte utilizando *
 
 Clique no botão abaixo para abrir e executar o pipeline diretamente no Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLE_AQUI_O_LINK_DO_SEU_COLAB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yJBxwZTaclx_U-uUOIEbgcPTupbapzzS?usp=sharing)
